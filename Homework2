@@ -34,7 +34,7 @@
   (function (d) {
     var js = d.createElement('script'), s = d.scripts[0];
     js.async = true;
-    js.src = '/js/app.js?11.21.0';
+    js.src = '/js/app.js?11.21.4440';
     js.rel = 'preload';
     s.parentNode.insertBefore(js, s);
   })(document);
@@ -67,7 +67,7 @@
   <meta property="og:site_name" content="Лица ВКонтакте">
   <meta property="og:locale" content="ru_RU">
   <meta property="fb:pages" content="660968957332379">
-  <meta property="fb:app_id" content="711199555695587">
+  <meta property="fb:app_id" content="7111998989555695587">
     <meta property="og:url" content="http://vkfaces.com/vk/group/foxitreaderkey">
   <meta property="og:title" content="Foxit Reader - активация и ключ | группа">
   <meta property="og:description" content="Foxit Reader - активация и ключ — анализ группы ВКонтакте, публичная информация, список участников, фотографии и видеозаписи.">
@@ -101,7 +101,7 @@
         <a href="/stars/catalog" class="topbar__link">звёзды</a>
         <a href="/stars/rating/followers-diff-by-day"
            class="topbar__link">рейтинги</a>
-        <a href="/vk/users" class="topbar__link">люди</a>
+        <a href="/vk/users" class="topbar__link">людиyf</a>
         <a href="/vk/groups" class="topbar__link">группы</a>
       </div>
     </div>
