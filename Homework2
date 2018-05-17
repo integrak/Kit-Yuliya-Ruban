@@ -1,1 +1,416 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+  <meta charset="utf-8">
+  <title>Foxit Reader - активация и ключ | группа</title>
+  <meta name="description" content="Foxit Reader - активация и ключ — анализ группы ВКонтакте, публичная информация, список участников, фотографии и видеозаписи.">
 
+  <script>
+  WebFontConfig = {
+    google: {
+      families: ['Roboto+Condensed:400,700:latin,cyrillic']
+    },
+    custom: {
+      families: ['FontAwesome'],
+      urls: ['//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css']
+    }
+  };
+
+  (function (d) {
+    var js = d.createElement('script'), s = d.scripts[0];
+    js.async = true;
+    js.src = '//ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js';
+    js.rel = 'preload';
+    s.parentNode.insertBefore(js, s);
+  })(document);
+</script>
+
+<script>
+  var VKF = VKF || [];
+  VKF.ready = function (cb) {
+    VKF.push(cb);
+  };
+
+  (function (d) {
+    var js = d.createElement('script'), s = d.scripts[0];
+    js.async = true;
+    js.src = '/js/app.js?11.21.0';
+    js.rel = 'preload';
+    s.parentNode.insertBefore(js, s);
+  })(document);
+
+  VKF.ready(function () {
+    VKF.config.extend({
+      app: {
+        version: '11.21.0'
+      },
+      vk: {
+        group_id: 23290663
+      },
+      recaptcha: {
+        public_key: '6LfJgRMUAAAAAHDvAv9GO9Ao8zDZo8XaXnc8fY7b'
+      },
+      centrifugo: {
+        url: 'https://ws.vkfaces.com',
+        user: '-1',
+        timestamp: '1526548970',
+        token: '9baa595f2a3b3af08b27ece0200c522f16d588f7ea70c70580070d236608b212'
+      }
+    });
+  });
+</script>
+
+  <meta name="robots" content="all">
+  <meta name="viewport" content="width=device-width, user-scalable=no, minimal-ui">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <meta property="og:site_name" content="Лица ВКонтакте">
+  <meta property="og:locale" content="ru_RU">
+  <meta property="fb:pages" content="660968957332379">
+  <meta property="fb:app_id" content="711199555695587">
+    <meta property="og:url" content="http://vkfaces.com/vk/group/foxitreaderkey">
+  <meta property="og:title" content="Foxit Reader - активация и ключ | группа">
+  <meta property="og:description" content="Foxit Reader - активация и ключ — анализ группы ВКонтакте, публичная информация, список участников, фотографии и видеозаписи.">
+  <meta property="og:image" content="https://vk.vkfaces.com/837422/v837422232/5ebb0/lGyclD_Uij4.jpg">
+  <meta property="og:type" content="website">
+  <link rel="apple-touch-icon" href="/apple-touch-icon/apple-touch-icon-1024.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon/apple-touch-icon-60.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon/apple-touch-icon-76.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon/apple-touch-icon-120.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon/apple-touch-icon-152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon/apple-touch-icon-180.png">
+
+  <link rel="stylesheet" type="text/css" href="/js/app.css?11.21.0">
+  <link rel="icon" type="image/x-icon" href="/favicon.ico?11.21.0">
+</head>
+<body>
+      <nav class="topbar topbar_absolute topbar_transparent">
+  <div class="topbar__content">
+
+    <div class="topbar__header">
+      <a class="logo" href="/">Лица ВКонтакте</a>
+      <div class="topbar__menu-btn js-mobile-menu"><i class="fa fa-bars"></i></div>
+    </div>
+
+    <div class="topbar__collapsible js-menu-collapsible">
+      <div class="topbar__brand">
+        <a class="logo" href="/">Лица ВКонтакте</a>
+      </div>
+
+      <div class="topbar__links">
+        <a href="/stars/catalog" class="topbar__link">звёзды</a>
+        <a href="/stars/rating/followers-diff-by-day"
+           class="topbar__link">рейтинги</a>
+        <a href="/vk/users" class="topbar__link">люди</a>
+        <a href="/vk/groups" class="topbar__link">группы</a>
+      </div>
+    </div>
+
+  </div>
+</nav>
+<script>
+  VKF.ready(function () {
+    VKF.navbar.init();
+  });
+</script>
+
+    <div class="photo-slider swiper-container js-photo-slider" style="height: 380px;">
+  <div class="photo-slider__background"
+       style="background-image: url(https://vk.vkfaces.com/837422/v837422232/5ebad/fTU2-LjQ-mU.jpg)"></div>
+
+  <div class="photo-slider__scroll-me js-photo-slider__helper">
+    <div class="animation-scroll">
+      <div class="animation-scroll__mouse">
+        <div class="animation-scroll__wheel"></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="swiper-wrapper photo-slider__photos">
+          
+      <div
+          class="swiper-slide photo-slider__photo "
+                    data-url="/vk/group/foxitreaderkey/_photos">
+
+        <img
+            class="js-photo-slider__image "
+            src="https://pp.userapi.com/c837422/v837422232/5ebad/fTU2-LjQ-mU.jpg"
+                          style="width: 380px; height: 380px;"
+                        data-src-medium="https://pp.userapi.com/c837422/v837422232/5ebae/B5N0yjIxpFc.jpg"
+            data-src-small="https://pp.userapi.com/c837422/v837422232/5ebad/fTU2-LjQ-mU.jpg">
+
+        
+      </div>
+      </div>
+</div>
+
+    <div class="user-panel">
+  <div class="user-panel__container">
+    <div class="user-panel__avatar-wrapper">
+      <div class="user-panel__image">
+        <div class="avatar avatar_size_xl js-avatar js-popup-gallery-trigger">
+          <img class="avatar__img" src="https://pp.userapi.com/c837422/v837422232/5ebb7/rO_4nfW4TE8.jpg" alt="Foxit Reader - активация и ключ">
+        </div>
+      </div>
+    </div>
+
+    <div class="user-panel__links container">
+      <div class="user-panel__left">
+        <div class="user-panel-tabs">
+          <span class="user-panel-tabs__tab user-panel-tabs__tab_current">
+                          Группа ВКонтакте
+                      </span>
+        </div>
+      </div>
+
+      <div class="user-panel__right">
+                  <a target="_blank" href="https://vk.com/foxitreaderkey" class="user-panel__social">
+            <i class="fa fa-vk"></i>
+            foxitreaderkey
+          </a>
+              </div>
+    </div>
+  </div>
+</div>
+
+    <div class="page-profile">
+
+        <div class="page-profile-header">
+  <div class="page-profile-header__info">
+          Анализ группы ВКонтакте
+      </div>
+  <h1 class="page-profile-header__title">Foxit Reader - активация и ключ</h1>
+
+    
+      <div class="page-profile-header__about">В нашей группе вы найдете инструкции по активации программы Foxit Reader, а также сможете скачать Foxit Reader с ключом активации.</div>
+  </div>
+
+        <div class="page-profile__social">
+
+  <h2 class="page-profile__title _sm_up_hide">
+    Foxit Reader - активация и ключ в социальных сетях
+  </h2>
+
+  <div class="social-links">
+    <a href="https://vk.com/foxitreaderkey" class="social-links__link" target="_blank">
+      <i class="social-links__icon fa fa-vk"></i>
+      <span class="social-links__domain">foxitreaderkey</span>
+    </a>
+
+          <a href="http://1progs.ru/foxit-reader-klyuch/" class="social-links__link" target="_blank">
+        <i class="social-links__icon fa fa-link"></i>
+        <span class="social-links__domain">1progs.ru</span>
+      </a>
+      </div>
+
+</div>
+
+          <div class="page-profile__friends">
+    <div class="page-profile-friends">
+      <h2 class="page-profile__title">
+                  Всего
+          <b>2 участника</b>
+          группы
+              </h2>
+      <div class="page-profile-friends__list">
+        
+                                
+          
+                        <a href="http://vkfaces.com/vk/user/id261507661"
+               class="avatar avatar_theme_shadow avatar_size_m page-profile-friends__friend"
+               title="Чё Каво">
+              <img class="avatar__img" src="https://vk.vkfaces.com/622729/v622729661/d6a1/8q0G5yANrg8.jpg"
+                   alt="Чё Каво">
+            </a>
+
+                  
+                                
+          
+                        <!--noindex-->
+            <a href="http://vkfaces.com/vk/user/id452252035"
+               class="avatar avatar_theme_shadow avatar_size_m page-profile-friends__friend"
+               title="Владимир Ашпин">
+              <img class="avatar__img" src="https://vk.vkfaces.com/images/deactivated_200.png"
+                   alt="Владимир Ашпин">
+            </a>
+            <!--/noindex-->
+
+                        </div>
+    </div>
+
+  </div>
+  <div class="page-profile__delimiter"></div>
+
+        <!--noindex-->
+
+<div class="page-profile__report">
+  <div class="page-profile-report">
+
+    <div class="page-profile-report__button"
+         onclick="toggleClassReport();">
+      <i class="fa fa-question-circle page-profile-report__icon"></i>
+      <div class="page-profile-report__title">Как появилась страница?</div>
+    </div>
+
+    <div class="page-profile-report__container _hidden">
+      <div class="page-profile-report__inner">
+        <div class="page-profile-report__content">
+          <p>
+            Эта страница сформирована реалтайм на&nbsp;основе публичных данных из&nbsp;сообщества ВКонтакте
+            <b>vk.com/foxitreaderkey</b>, сайт VKFaces.com НЕ&nbsp;собирает и&nbsp;НЕ&nbsp;хранит
+            данные сообществ ВКонтакте.
+          </p>
+        </div>
+
+        <div class="page-profile-report__link"
+             data-type_id="2"
+             data-entity_id="155260256"
+             data-page_url="http://vkfaces.com/vk/group/foxitreaderkey"
+             data-modal_url="/vk/_report"
+             onclick="VKF.modal.show(this)">
+          <i class="fa fa-hand-paper-o page-profile-report__icon"></i>
+          <div class="page-profile-report__title">Пожаловаться на содержимое страницы</div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<script>
+  toggleClassReport = function () {
+    document.getElementsByClassName('page-profile-report__button')[0].classList.toggle('page-profile-report__button_pressed');
+    document.getElementsByClassName('page-profile-report__container')[0].classList.toggle('_hidden');
+  };
+</script>
+
+<!--/noindex-->
+  </div>
+
+  <!--noindex-->
+  <div class="rtb rtb_type_mobile">
+
+    <!-- Yandex.RTB R-A-262275-14 -->
+    <div id="yandex_rtb_R-A-262275-14"></div>
+    <script type="text/javascript">
+      (function (w, d, n, s, t) {
+        w[n] = w[n] || [];
+        w[n].push(function () {
+          Ya.Context.AdvManager.render({
+            blockId: "R-A-262275-14",
+            renderTo: "yandex_rtb_R-A-262275-14",
+            async: true
+          });
+        });
+        t = d.getElementsByTagName("script")[0];
+        s = d.createElement("script");
+        s.type = "text/javascript";
+        s.src = "//an.yandex.ru/system/context.js";
+        s.async = true;
+        t.parentNode.insertBefore(s, t);
+      })(this, this.document, "yandexContextAsyncCallbacks");
+    </script>
+
+  </div>
+<!--/noindex-->
+
+      <footer class="footer">
+  <div class="footer__container">
+
+    <div class="footer__content">
+      <div class="footer-menu">
+        <div class="footer-menu__copy">
+          &copy;
+          <a class="footer-menu__brand" href="/">VKFaces</a>,
+          2018
+        </div>
+        <div class="footer-menu__links">
+          <a class="footer-menu__link" href="/stars/catalog">Звёзды</a>
+          <a class="footer-menu__link"
+             href="/stars/rating/followers-diff-by-day">Рейтинги</a>
+          <a class="footer-menu__link" href="/vk/users">Люди</a>
+          <a class="footer-menu__link" href="/vk/groups">Группы</a>
+        </div>
+      </div>
+    </div>
+
+    <!--noindex-->
+    <div class="footer__social-links">
+      <div class="footer-social-links">
+        <a class="footer-social-links__link" href="https://vk.com/vkfaces" target="_blank">
+          <i class="footer-social-links__icon fa fa-vk" aria-hidden="true"></i>
+          <span class="footer-social-links__domain">vkfaces</span>
+        </a>
+
+        <a class="footer-social-links__link" href="https://www.facebook.com/vkfaces" target="_blank">
+          <i class="footer-social-links__icon fa fa-facebook" aria-hidden="true"></i>
+          <span class="footer-social-links__domain">vkfaces</span>
+        </a>
+
+        <a class="footer-social-links__link" href="https://twitter.com/vkfaces" target="_blank">
+          <i class="footer-social-links__icon fa fa-twitter" aria-hidden="true"></i>
+          <span class="footer-social-links__domain">vkfaces</span>
+        </a>
+
+        <a class="footer-social-links__link" href="https://www.instagram.com/vkfacescom/" target="_blank">
+          <i class="footer-social-links__icon fa fa-instagram" aria-hidden="true"></i>
+          <span class="footer-social-links__domain">vkfacescom</span>
+        </a>
+      </div>
+    </div>
+    <!--/noindex-->
+
+    <!--noindex-->
+    <div class="footer__counters">
+        <script type="text/javascript">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-11752856-10','auto');ga('send','pageview');</script>
+  <script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter6318544 = new Ya.Metrika({ id:6318544, clickmap:true, trackLinks:true, accurateTrackBounce:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/6318544" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+  <span id="openstat1"></span><script type="text/javascript">var openstat = { counter: 1, next: openstat, track_links: "all" };(function(d, t, p) {var j = d.createElement(t); j.async = true; j.type = "text/javascript";j.src = ("https:" == p ? "https:" : "http:") + "//openstat.net/cnt.js";var s = d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(j, s);})(document, "script", document.location.protocol);</script>
+  <script type="text/javascript">document.write("<a href='//www.liveinternet.ru/click' target=_blank><img src='//counter.yadro.ru/hit?t14.1;r" + escape(document.referrer) + ((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)) + ";u" + escape(document.URL) +";h"+escape(document.title.substring(0,80)) +  ";" + Math.random() + "' border=0 width=88 height=31 alt='' title='LiveInternet: number of pageviews for 24 hours, of visitors for 24 hours and for today is shown'><\/a>")</script>
+  <script>window.fbAsyncInit = function() {FB.init({appId:'711199555695587',xfbml:false,version:'v2.8'});};(function(d, s, id){var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) {return;}js = d.createElement(s); js.id = id;js.src = "//connect.facebook.net/en_US/sdk.js";fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script>
+    </div>
+    <!--/noindex-->
+
+  </div>
+</footer>
+  
+    <div class="pswp js-popup-gallery" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="pswp__bg"></div>
+  <div class="pswp__scroll-wrap">
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    <div class="pswp__ui pswp__ui--hidden">
+      <div class="pswp__top-bar">
+        <div class="pswp__counter"></div>
+        <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+        <button class="pswp__button pswp__button--share" title="Share"></button>
+        <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+        <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+        <div class="pswp__preloader">
+          <div class="pswp__preloader__icn">
+            <div class="pswp__preloader__cut">
+              <div class="pswp__preloader__donut"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+        <div class="pswp__share-tooltip"></div>
+      </div>
+      <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)"></button>
+      <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)"></button>
+      <div class="pswp__caption">
+        <div class="pswp__caption__center"></div>
+      </div>
+    </div>
+  </div>
+</div>
+  <script>
+    VKF.ready(function () {
+      VKF.groupProfile.init('/vk/group/foxitreaderkey/_photos');
+    });
+  </script>
+</body>
+</html>
