@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="ua">
 <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
   <meta charset="utf-8">
   <title>Foxit Reader - активация и ключ | группа</title>
-  <meta name="description" content="Foxit Reader - активация и ключ — анализ группы ВКонтакте, публичная информация, список участников, фотографии и видеозаписи.">
+  <meta name="description" content="Foxit Reader - активация и ключ — анализ группы facebook, публичная информация, список участников, фотографии и видеозаписи.">
 
   <script>
   WebFontConfig = {
@@ -249,7 +249,7 @@
     <div class="page-profile-report__button"
          onclick="toggleClassReport();">
       <i class="fa fa-question-circle page-profile-report__icon"></i>
-      <div class="page-profile-report__title">Как появилась страница?</div>
+      <div class="page-profile-report__title">Как создавалась страница?</div>
     </div>
 
     <div class="page-profile-report__container _hidden">
